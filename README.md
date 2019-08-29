@@ -27,4 +27,4 @@ Follow the instructions if you want to learn how!
 
 <a href="https://www.linkedin.com/feed/hashtag/juanalytics/">#juanalytics</a>
 
-<p><img src="https://www.blastam.com/wp-content/uploads/tableau-python-forecast.png" alt="";></p>t to Tableau Server
+<p><img src="https://www.blastam.com/wp-content/uploads/tableau-python-forecast.png" alt="";></p>
