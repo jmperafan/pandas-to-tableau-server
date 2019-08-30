@@ -1,4 +1,4 @@
-# How to publishing Pandas DataFrames to Tableau Server
+# How to publish Pandas DataFrames to Tableau Server
 <p>By <a href="https://www.linkedin.com/in/jmperafan/">Juan Manuel Perafan</a></p>
 
 Tableau Server has many data governance features to promote exploration, collaboration, and security. Out of all of them, my favorite by far is the Data Server.
